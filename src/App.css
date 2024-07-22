@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.containerForm {
+  width: 1200px;
+  height: screen;
+  background: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.formulario {
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+}
